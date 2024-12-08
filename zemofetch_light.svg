@@ -5,7 +5,7 @@
 .addColor {fill: #1a7f37;}
 .delColor {fill: #cf222e;}
 .commentColor {fill: #8b949e;}
-text, tspan {white space: pre;}
+text, tspan {white-space: pre;}
 </style>
 
 <rect width="970px" height="530px" fill="#f6f8fa" rx="15"/>
